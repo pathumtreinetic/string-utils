@@ -1,2 +1,1 @@
-string
-Uba harakek
+BBBB
